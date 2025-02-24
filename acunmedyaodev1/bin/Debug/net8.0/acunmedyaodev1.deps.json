@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "acunmedyaodev1/1.0.0": {
+        "runtime": {
+          "acunmedyaodev1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "acunmedyaodev1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Abstract Class Nedir?
+
+Abstract class, nesne yönelimli programlamada, içinde en az bir soyut metot barındıran ve doğrudan nesne örneği oluşturulamayan sınıftır. Soyut metotlar, sadece tanımlanır ancak içi doldurulmaz; alt sınıflar bu metotları kendi ihtiyaçlarına göre uygular.
+
+Abstraction Nedir?
+
+Abstraction, nesne yönelimli programlamada, bir nesnenin ortak ve temel özelliklerini belirleyip, gereksiz detayları gizleyerek daha genel bir yapı oluşturmayı sağlayan bir prensiptir. Örneğin, "Hayvan" adında bir sınıf düşünelim. Tüm hayvanların "SesÇıkar" ve "HareketEt" gibi ortak özellikleri vardır, ancak bu sesin nasıl çıktığı veya nasıl hareket ettikleri her hayvana göre değişir. Bu yüzden "Hayvan" sınıfında sadece ortak özellikler tanımlanır, ancak detaylar alt sınıflara bırakılır. Böylece, kod daha esnek ve düzenli hale gelir.
+
+Polymorphism Nedir?
+
+Polymorphism, nesne yönelimli programlamada, aynı metot veya işlemin farklı sınıflarda farklı şekillerde çalışabilmesini sağlayan bir özelliktir. Yani, farklı nesneler aynı isme sahip bir metodu kendilerine özgü şekilde kullanabilir. Örneğin, "SesÇıkar" metodu hem "Köpek" hem de "Kedi" sınıfında olabilir, ancak köpek havlarken kedi miyavlar.

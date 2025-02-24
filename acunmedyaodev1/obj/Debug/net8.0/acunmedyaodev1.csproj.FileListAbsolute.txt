@@ -1,0 +1,14 @@
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\bin\Debug\net8.0\acunmedyaodev1.exe
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\bin\Debug\net8.0\acunmedyaodev1.deps.json
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\bin\Debug\net8.0\acunmedyaodev1.runtimeconfig.json
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\bin\Debug\net8.0\acunmedyaodev1.dll
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\bin\Debug\net8.0\acunmedyaodev1.pdb
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\acunmedyaodev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\acunmedyaodev1.AssemblyInfoInputs.cache
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\acunmedyaodev1.AssemblyInfo.cs
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\acunmedyaodev1.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\acunmedyaodev1.dll
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\refint\acunmedyaodev1.dll
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\acunmedyaodev1.pdb
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\acunmedyaodev1.genruntimeconfig.cache
+C:\Users\khrm_\source\repos\acunmedyaodev1\acunmedyaodev1\obj\Debug\net8.0\ref\acunmedyaodev1.dll
