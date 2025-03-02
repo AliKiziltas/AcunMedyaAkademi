@@ -1,0 +1,1 @@
+Array(Dizi), aynı türdeki veri öğelerini saklayan sabit boyutlu bir veri yapısıdır. Bellekte ardışık olarak depolanır ve sıfır tabanlı indeksleme kullanılır.
