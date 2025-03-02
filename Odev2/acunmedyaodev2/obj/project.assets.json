@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khrm_\\OneDrive\\Masaüstü\\ÖDEVLERİM\\acunmedyaodev2\\acunmedyaodev2\\acunmedyaodev2.csproj",
+      "projectUniqueName": "C:\\Users\\khrm_\\OneDrive\\Masaüstü\\AcunMedyaAkademi\\AcunMedyaAkademi\\Odev2\\acunmedyaodev2\\acunmedyaodev2.csproj",
       "projectName": "acunmedyaodev2",
-      "projectPath": "C:\\Users\\khrm_\\OneDrive\\Masaüstü\\ÖDEVLERİM\\acunmedyaodev2\\acunmedyaodev2\\acunmedyaodev2.csproj",
+      "projectPath": "C:\\Users\\khrm_\\OneDrive\\Masaüstü\\AcunMedyaAkademi\\AcunMedyaAkademi\\Odev2\\acunmedyaodev2\\acunmedyaodev2.csproj",
       "packagesPath": "C:\\Users\\khrm_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khrm_\\OneDrive\\Masaüstü\\ÖDEVLERİM\\acunmedyaodev2\\acunmedyaodev2\\obj\\",
+      "outputPath": "C:\\Users\\khrm_\\OneDrive\\Masaüstü\\AcunMedyaAkademi\\AcunMedyaAkademi\\Odev2\\acunmedyaodev2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
