@@ -1,0 +1,14 @@
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\bin\Debug\net8.0\acunmedyaodev2.exe
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\bin\Debug\net8.0\acunmedyaodev2.deps.json
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\bin\Debug\net8.0\acunmedyaodev2.runtimeconfig.json
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\bin\Debug\net8.0\acunmedyaodev2.dll
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\bin\Debug\net8.0\acunmedyaodev2.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\acunmedyaodev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\acunmedyaodev2.AssemblyInfoInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\acunmedyaodev2.AssemblyInfo.cs
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\acunmedyaodev2.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\acunmedyaodev2.dll
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\refint\acunmedyaodev2.dll
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\acunmedyaodev2.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\acunmedyaodev2.genruntimeconfig.cache
+C:\Users\khrm_\OneDrive\Masaüstü\ÖDEVLERİM\acunmedyaodev2\acunmedyaodev2\obj\Debug\net8.0\ref\acunmedyaodev2.dll
