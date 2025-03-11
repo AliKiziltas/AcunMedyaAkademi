@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\acunmedyaodev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4724EE7-AAB2-4134-8A08-D6A36E966199}|acunmedyaodev3\\acunmedyaodev3.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\projeler\\acunmedyaodev3\\acunmedyaodev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4724EE7-AAB2-4134-8A08-D6A36E966199}|acunmedyaodev3\\acunmedyaodev3.csproj|solutionrelative:acunmedyaodev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4724EE7-AAB2-4134-8A08-D6A36E966199}|acunmedyaodev3\\acunmedyaodev3.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\projeler\\acunmedyaodev3\\acunmedyaodev3\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4724EE7-AAB2-4134-8A08-D6A36E966199}|acunmedyaodev3\\acunmedyaodev3.csproj|solutionrelative:acunmedyaodev3\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4724EE7-AAB2-4134-8A08-D6A36E966199}|acunmedyaodev3\\acunmedyaodev3.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\projeler\\acunmedyaodev3\\acunmedyaodev3\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4724EE7-AAB2-4134-8A08-D6A36E966199}|acunmedyaodev3\\acunmedyaodev3.csproj|solutionrelative:acunmedyaodev3\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\acunmedyaodev3\\acunmedyaodev3\\classes\\Araba.cs",
+              "RelativeDocumentMoniker": "acunmedyaodev3\\classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\acunmedyaodev3\\acunmedyaodev3\\classes\\Araba.cs",
+              "RelativeToolTip": "acunmedyaodev3\\classes\\Araba.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:33:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\acunmedyaodev3\\acunmedyaodev3\\classes\\Calisan.cs",
+              "RelativeDocumentMoniker": "acunmedyaodev3\\classes\\Calisan.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\acunmedyaodev3\\acunmedyaodev3\\classes\\Calisan.cs",
+              "RelativeToolTip": "acunmedyaodev3\\classes\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:19:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\acunmedyaodev3\\acunmedyaodev3\\Program.cs",
+              "RelativeDocumentMoniker": "acunmedyaodev3\\Program.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\acunmedyaodev3\\acunmedyaodev3\\Program.cs",
+              "RelativeToolTip": "acunmedyaodev3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:08:59.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\acunmedyaodev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\acunmedyaodev3.AssemblyInfoInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\acunmedyaodev3.AssemblyInfo.cs
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\acunmedyaodev3.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\bin\Debug\net8.0\acunmedyaodev3.exe
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\bin\Debug\net8.0\acunmedyaodev3.deps.json
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\bin\Debug\net8.0\acunmedyaodev3.runtimeconfig.json
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\bin\Debug\net8.0\acunmedyaodev3.dll
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\bin\Debug\net8.0\acunmedyaodev3.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\acunmedyaodev3.dll
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\refint\acunmedyaodev3.dll
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\acunmedyaodev3.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\acunmedyaodev3.genruntimeconfig.cache
+C:\Users\khrm_\OneDrive\Masaüstü\Projeler\acunmedyaodev3\acunmedyaodev3\obj\Debug\net8.0\ref\acunmedyaodev3.dll
