@@ -1,0 +1,14 @@
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\AcunMedyaErisimB.exe
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\AcunMedyaErisimB.deps.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\AcunMedyaErisimB.runtimeconfig.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\AcunMedyaErisimB.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\bin\Debug\net8.0\AcunMedyaErisimB.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\AcunMedyaErisimB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\AcunMedyaErisimB.AssemblyInfoInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\AcunMedyaErisimB.AssemblyInfo.cs
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\AcunMedyaErisimB.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\AcunMedyaErisimB.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\refint\AcunMedyaErisimB.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\AcunMedyaErisimB.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\AcunMedyaErisimB.genruntimeconfig.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\ErisimBelirleyiciler\ErisimBelirleyiciler\obj\Debug\net8.0\ref\AcunMedyaErisimB.dll
