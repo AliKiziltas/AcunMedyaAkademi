@@ -1,0 +1,14 @@
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\bin\Debug\net8.0\SayiTahmin.exe
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\bin\Debug\net8.0\SayiTahmin.deps.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\bin\Debug\net8.0\SayiTahmin.runtimeconfig.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\bin\Debug\net8.0\SayiTahmin.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\bin\Debug\net8.0\SayiTahmin.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\SayiTahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\SayiTahmin.AssemblyInfoInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\SayiTahmin.AssemblyInfo.cs
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\SayiTahmin.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\refint\SayiTahmin.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\SayiTahmin.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\SayiTahmin.genruntimeconfig.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\SayiTahmin\SayiTahmin\obj\Debug\net8.0\ref\SayiTahmin.dll
