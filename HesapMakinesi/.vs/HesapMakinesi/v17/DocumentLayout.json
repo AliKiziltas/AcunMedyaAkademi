@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\HesapMakinesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E96C06-923B-44C4-A0E1-6E475E20D71C}|HesapMakinesi\\HesapMakinesi.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\hesapmakinesi\\hesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E96C06-923B-44C4-A0E1-6E475E20D71C}|HesapMakinesi\\HesapMakinesi.csproj|solutionrelative:hesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\HesapMakinesi\\HesapMakinesi\\Program.cs",
+              "RelativeDocumentMoniker": "HesapMakinesi\\Program.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\HesapMakinesi\\HesapMakinesi\\Program.cs",
+              "RelativeToolTip": "HesapMakinesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:21:52.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
