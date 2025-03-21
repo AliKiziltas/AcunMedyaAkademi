@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\ErisimBelirleyiciler\\",
+  "WorkspaceRootPath": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\ErisimBelirleyiciler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\erisimbelirleyiciler\\erisimbelirleyiciler\\erisimbelirleyiciler\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|solutionrelative:erisimbelirleyiciler\\erisimbelirleyiciler\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\erisimbelirleyiciler\\erisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|solutionrelative:erisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\erisimbelirleyiciler\\erisimbelirleyiciler\\namespace\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|solutionrelative:erisimbelirleyiciler\\namespace\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\acunmedyaakademi\\erisimbelirleyiciler\\erisimbelirleyiciler\\basithesapmakinesi\\hesapmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52738C5A-7594-4F1D-9FC5-F3996F1B095A}|ErisimBelirleyiciler\\AcunMedyaErisimB.csproj|solutionrelative:erisimbelirleyiciler\\basithesapmakinesi\\hesapmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\User.cs",
-              "RelativeDocumentMoniker": "ErisimBelirleyiciler\\ErisimBelirleyiciler\\User.cs",
-              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\User.cs",
-              "RelativeToolTip": "ErisimBelirleyiciler\\ErisimBelirleyiciler\\User.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Title": "HesapMakinesi.cs",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\BasitHesapMakinesi\\HesapMakinesi.cs",
+              "RelativeDocumentMoniker": "ErisimBelirleyiciler\\BasitHesapMakinesi\\HesapMakinesi.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\BasitHesapMakinesi\\HesapMakinesi.cs*",
+              "RelativeToolTip": "ErisimBelirleyiciler\\BasitHesapMakinesi\\HesapMakinesi.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T09:56:37.065Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-03-21T19:36:40.743Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\Program.cs",
-              "RelativeDocumentMoniker": "ErisimBelirleyiciler\\Program.cs",
-              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\Program.cs",
-              "RelativeToolTip": "ErisimBelirleyiciler\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T09:55:11.14Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\NameSpace\\Class1.cs",
-              "RelativeDocumentMoniker": "ErisimBelirleyiciler\\NameSpace\\Class1.cs",
-              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\ErisimBelirleyiciler\\ErisimBelirleyiciler\\NameSpace\\Class1.cs",
-              "RelativeToolTip": "ErisimBelirleyiciler\\NameSpace\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:24:42.875Z"
             }
           ]
         }

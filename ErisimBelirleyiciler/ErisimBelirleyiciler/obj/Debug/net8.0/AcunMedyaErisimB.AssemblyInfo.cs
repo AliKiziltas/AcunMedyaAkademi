@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcunMedyaErisimB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ad8f526f9aae34881229968aecdbb2c3a4fa50")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcunMedyaErisimB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcunMedyaErisimB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

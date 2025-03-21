@@ -1,0 +1,14 @@
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\bin\Debug\net8.0\namesspace.exe
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\bin\Debug\net8.0\namesspace.deps.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\bin\Debug\net8.0\namesspace.runtimeconfig.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\bin\Debug\net8.0\namesspace.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\bin\Debug\net8.0\namesspace.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\namesspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\namesspace.AssemblyInfoInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\namesspace.AssemblyInfo.cs
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\namesspace.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\namesspace.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\refint\namesspace.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\namesspace.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\namesspace.genruntimeconfig.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\namesspace\namesspace\obj\Debug\net8.0\ref\namesspace.dll
