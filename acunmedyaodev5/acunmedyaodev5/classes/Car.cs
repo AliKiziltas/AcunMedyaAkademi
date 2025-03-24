@@ -5,8 +5,8 @@ class Car
 {
     public string Brand;
     public string Model;
-    public double FuelConsumption; // 100 km başına harcanan yakıt (litre)
-    public double TotalDistance;   // Toplam mesafe (km)
+    public double FuelConsumption;
+    public double TotalDistance;
 
     public Car(string brand, string model, double fuelConsumption, double totalDistance)
     {
