@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arabaodevi", "arabaodevi\arabaodevi.csproj", "{42368ACC-6187-404D-BFA1-291B5BA5C363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabaBilgiFormu", "ArabaBilgiFormu\ArabaBilgiFormu.csproj", "{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42368ACC-6187-404D-BFA1-291B5BA5C363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42368ACC-6187-404D-BFA1-291B5BA5C363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42368ACC-6187-404D-BFA1-291B5BA5C363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42368ACC-6187-404D-BFA1-291B5BA5C363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5C7C76-EAE8-4812-97DA-D0E10BD95791}
+	EndGlobalSection
+EndGlobal

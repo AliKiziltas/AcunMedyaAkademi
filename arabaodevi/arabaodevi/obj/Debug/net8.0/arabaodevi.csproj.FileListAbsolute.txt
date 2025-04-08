@@ -1,0 +1,14 @@
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\bin\Debug\net8.0\arabaodevi.exe
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\bin\Debug\net8.0\arabaodevi.deps.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\bin\Debug\net8.0\arabaodevi.runtimeconfig.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\bin\Debug\net8.0\arabaodevi.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\bin\Debug\net8.0\arabaodevi.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\arabaodevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\arabaodevi.AssemblyInfoInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\arabaodevi.AssemblyInfo.cs
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\arabaodevi.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\arabaodevi.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\refint\arabaodevi.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\arabaodevi.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\arabaodevi.genruntimeconfig.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\arabaodevi\arabaodevi\obj\Debug\net8.0\ref\arabaodevi.dll
