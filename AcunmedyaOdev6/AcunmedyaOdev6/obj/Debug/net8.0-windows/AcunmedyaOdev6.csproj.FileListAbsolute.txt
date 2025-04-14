@@ -1,0 +1,17 @@
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.Form1.resources
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.csproj.GenerateResource.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.AssemblyInfoInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.AssemblyInfo.cs
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\bin\Debug\net8.0-windows\AcunmedyaOdev6.exe
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\bin\Debug\net8.0-windows\AcunmedyaOdev6.deps.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\bin\Debug\net8.0-windows\AcunmedyaOdev6.runtimeconfig.json
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\bin\Debug\net8.0-windows\AcunmedyaOdev6.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\bin\Debug\net8.0-windows\AcunmedyaOdev6.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\refint\AcunmedyaOdev6.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\AcunmedyaOdev6.genruntimeconfig.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\obj\Debug\net8.0-windows\ref\AcunmedyaOdev6.dll
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\AcunmedyaOdev6\AcunmedyaOdev6\bin\Debug\net8.0-windows\urunler.json
