@@ -1,0 +1,10 @@
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\bin\Debug\acunmedyaodev9.exe.config
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\bin\Debug\acunmedyaodev9.exe
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\bin\Debug\acunmedyaodev9.pdb
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\obj\Debug\acunmedyaodev9.csproj.AssemblyReference.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\obj\Debug\acunmedyaodev9.Form1.resources
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\obj\Debug\acunmedyaodev9.Properties.Resources.resources
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\obj\Debug\acunmedyaodev9.csproj.GenerateResource.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\obj\Debug\acunmedyaodev9.csproj.CoreCompileInputs.cache
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\obj\Debug\acunmedyaodev9.exe
+C:\Users\khrm_\OneDrive\Masaüstü\AcunMedyaAkademi\acunmedyaodev9\acunmedyaodev9\obj\Debug\acunmedyaodev9.pdb

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|solutionrelative:arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|solutionrelative:arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\acunmedyaakademi\\arabaodevi\\arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|solutionrelative:arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\acunmedyaakademi\\arabaodevi\\arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0988A4F7-4F47-4927-ABEA-EDDC1DA5ACAD}|ArabaBilgiFormu\\ArabaBilgiFormu.csproj|solutionrelative:arababilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42368ACC-6187-404D-BFA1-291B5BA5C363}|arabaodevi\\arabaodevi.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\acunmedyaakademi\\arabaodevi\\arabaodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,29 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\ArabaBilgiFormu\\Form1.cs",
               "RelativeDocumentMoniker": "ArabaBilgiFormu\\Form1.cs",
-              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\ArabaBilgiFormu\\Form1.cs",
-              "RelativeToolTip": "ArabaBilgiFormu\\Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\ArabaBilgiFormu\\Form1.cs*",
+              "RelativeToolTip": "ArabaBilgiFormu\\Form1.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T12:18:10.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\ArabaBilgiFormu\\Form1.cs",
               "RelativeDocumentMoniker": "ArabaBilgiFormu\\Form1.cs",
-              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\ArabaBilgiFormu\\Form1.cs [Design]",
-              "RelativeToolTip": "ArabaBilgiFormu\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\AcunMedyaAkademi\\arabaodevi\\ArabaBilgiFormu\\Form1.cs [Design]*",
+              "RelativeToolTip": "ArabaBilgiFormu\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T12:12:39.104Z",
               "EditorCaption": " [Design]"

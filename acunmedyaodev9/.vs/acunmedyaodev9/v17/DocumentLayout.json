@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\acunmedyaodev9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72AC49D-18DA-41DB-A675-227AB61147F9}|acunmedyaodev9\\acunmedyaodev9.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\acunmedyaodev9\\acunmedyaodev9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E72AC49D-18DA-41DB-A675-227AB61147F9}|acunmedyaodev9\\acunmedyaodev9.csproj|solutionrelative:acunmedyaodev9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72AC49D-18DA-41DB-A675-227AB61147F9}|acunmedyaodev9\\acunmedyaodev9.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\acunmedyaodev9\\acunmedyaodev9\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72AC49D-18DA-41DB-A675-227AB61147F9}|acunmedyaodev9\\acunmedyaodev9.csproj|solutionrelative:acunmedyaodev9\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72AC49D-18DA-41DB-A675-227AB61147F9}|acunmedyaodev9\\acunmedyaodev9.csproj|c:\\users\\khrm_\\onedrive\\masa\u00FCst\u00FC\\acunmedyaakademi\\acunmedyaodev9\\acunmedyaodev9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72AC49D-18DA-41DB-A675-227AB61147F9}|acunmedyaodev9\\acunmedyaodev9.csproj|solutionrelative:acunmedyaodev9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\acunmedyaodev9\\acunmedyaodev9\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "acunmedyaodev9\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\acunmedyaodev9\\acunmedyaodev9\\Ogrenci.cs",
+              "RelativeToolTip": "acunmedyaodev9\\Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:05:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\acunmedyaodev9\\acunmedyaodev9\\Form1.cs",
+              "RelativeDocumentMoniker": "acunmedyaodev9\\Form1.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\acunmedyaodev9\\acunmedyaodev9\\Form1.cs",
+              "RelativeToolTip": "acunmedyaodev9\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:01:33.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\acunmedyaodev9\\acunmedyaodev9\\Form1.cs",
+              "RelativeDocumentMoniker": "acunmedyaodev9\\Form1.cs",
+              "ToolTip": "C:\\Users\\khrm_\\OneDrive\\Masa\u00FCst\u00FC\\AcunMedyaAkademi\\acunmedyaodev9\\acunmedyaodev9\\Form1.cs [Design]",
+              "RelativeToolTip": "acunmedyaodev9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:59:41.32Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
